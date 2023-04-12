@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IAS POsted Jobs</title>
+        <link>https://www.example.com/feeds</link>
+        <description>IAS Job List Feed</description>
+        <copyright>Copyright 2023, All rights reserved.</copyright>
+        <item>
+            <title>Anesthesiologist</title>
+            <description>
+			</description>
+            <jobid>  </jobid>
+		<contact_phone>    </contact_phone>
+            <pubDate>  </pubDate>
+            <url>     </url>
+            <city>    </city>
+            <state>    </state>
+            
+        </item>
+        <item>
+            <title>CRNA</title>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+            <jobid>307</jobid>
+            <pubDate>Mon, 20 Oct 2019 20:04:00 GMT</pubDate>
+            <url>https://www.example.com/job-post/307</url>
+            <city>Derry</city>
+            <state>New Hampshire</state>
+        </item>
+    </channel>
+</rss>
