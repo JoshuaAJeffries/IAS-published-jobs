@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<File xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<jobs>
 		<job>
 			<JobID>113095</JobID>
@@ -1205,4 +1204,4 @@ Maintains open communication and observes chain of command.</JobDescription>
 			<SiteState>CA</SiteState>
 			<Recruiter>amber@iconmn.com</Recruiter>
 		</job>
-		
+	</jobs>
